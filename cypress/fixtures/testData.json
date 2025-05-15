@@ -1,0 +1,12 @@
+{
+    "user" : {
+        "userName": "example1269@gmail.com",
+        "password": "Testing123!"
+    },
+    "product": {
+        "productName": "MacBook"
+    },
+    "successMessage": {
+        "message": "Success: You have added MacBook to your shopping cart!" 
+    }
+}
